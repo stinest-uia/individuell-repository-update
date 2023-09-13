@@ -1,2 +1,5 @@
 # individuell-repository-update
-Prosjektoblig
+Prosjektoblig	
+
+Macbook Pro
+Stine
